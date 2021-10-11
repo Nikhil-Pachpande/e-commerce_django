@@ -1,4 +1,4 @@
-A demo e-commerce website developed using Django & Python along with HTML, CSS and some javascript funcationalitites.<br><br>
+A demo e-commerce website developed using Django & Python along with HTML, CSS and some javascript functionalities.<br><br>
 Authenticated user checkout and guest user checkout using cookies.<br><br>
 Users can add multiple products to cart (physical and digital products).<br><br>
 The physical products will have shipping information and digital products won't need that info.<br><br>
